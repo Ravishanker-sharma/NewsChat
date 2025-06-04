@@ -70,7 +70,7 @@ def run_chat_ui():
 
                 llm = ChatGoogleGenerativeAI(
                     model="gemini-2.0-flash",
-                    api_key="AIzaSyA-Dk7dhyut4IZHFLBTSzQcC_tAaYwYqoU",
+                    api_key="YOUR_API_KEY",
                     temperature=0.5
                 )
 
